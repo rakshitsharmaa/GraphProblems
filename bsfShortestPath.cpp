@@ -38,8 +38,7 @@ public:
         for (int i = 0; i < V; i++)
         {
             parent[i]=-1;
-        }
-        
+        }   
         while (!q.empty())
         {
             int node= q.front();
