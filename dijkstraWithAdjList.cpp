@@ -51,7 +51,7 @@ public:
 
         }
         for (auto d : dist) {
-            cout << d.first << "-> " << d.second << endl;
+            cout << d.first << "->" << d.second << endl;
         }
     }
 
